@@ -1,0 +1,40 @@
+/* Some basic CSS */
+.main{
+  height: 100vh;
+  width: 100%;
+  background-color: white;
+  text-align: center;
+}
+
+.navbar-fixed{
+  height: 8vh; /* defining nav el height by view height */
+  line-height: 8vh;
+  margin-bottom: 20px;
+}
+
+footer.page-footer{
+  padding-top: 0;
+}
+
+footer .page-footer .footer-copyright {
+  height: 4vh;
+  line-height: 4vh;
+}
+
+/* Buttons CSS */
+.fixes {
+  width: 70vw;
+  text-align: center;
+  font-size: 2vh;
+  margin: 3px;
+}
+
+.frame{
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.frame li{
+  display: block;
+}
